@@ -42,8 +42,3 @@ See **SUMMARY.md** for the full index generated from the current tree.
 - [ ] Logs are short and structured (key=value).  
 - [ ] Finetuning notes summarise the teaching objective.
 
-## License
-- Add your preferred license here (e.g., MIT). Ensure third-party content is **paraphrased** and citations (if any) are handled per your policy.
-
-## Acknowledgements
-- Built to help teams learn Verse and plan systems responsibly, with consistent patterns that a model can internalize.
